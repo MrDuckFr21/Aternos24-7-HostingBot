@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "afkbotforfree247",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "THE-MUSCLES-SMP.aternos.me",
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "Yamin"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm Gay",
+        "Im a Bot!",
+        
       ]
     },
     "chat-log": true,
