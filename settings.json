@@ -1,26 +1,26 @@
 {
   "name": "afkbotforfree247",
   "bot-account": {
-    "username": "afkbotforfree247",
-    "password": "Yamin",
+    "username": "MrDuckFr_21",
+    "password": "green214",
     "type": "offline"
   },
   "server": {
     "ip": "THE-MUSCLES-SMP.aternos.me",
     "port": 55057,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 0,
+    "y": 100,
     "z": 0
   },
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Yamin"
+      "password": "green214"
     },
     "anti-afk": {
       "enabled": true,
