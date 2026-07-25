@@ -2,7 +2,7 @@
   "name": "afkbotforfree247",
   "bot-account": {
     "username": "afkbotforfree247",
-    "password": "",
+    "password": "Yamin",
     "type": "offline"
   },
   "server": {
@@ -14,7 +14,7 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 0,
     "z": 0
   },
   "utils": {
